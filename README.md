@@ -1,6 +1,6 @@
 ### 서울시 응급의료 전용헬기를 위한 인계점 최적입지 분석 &nbsp;<sub>[*Click*](link)</sub> 
 ~~~
-Summary : AHP를 활용한 응급의료 전용 헬리콥터 인계점 최적 입지 선정
+Summary : AHP를 활용한 응급의료 전용 헬리콥터 인계점 최적입지 선정
 Date : 2021-02-01 ~ 2021-12-31
 Status: Completed
 ~~~
