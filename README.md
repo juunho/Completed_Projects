@@ -10,5 +10,5 @@ Purpose : Competition
 ~~~
 Summary : 앙상블 모형과 클러스터링을 활용한 기업 선호도 반영 추천 솔루션
 Date : 2021-06 ~ 2021-08
-Purpose : Competition
+Purpose : Competition / Conference
 ~~~
