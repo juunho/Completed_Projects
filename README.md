@@ -2,7 +2,7 @@
 ~~~
 Summary : AHP를 활용한 응급의료 전용 헬리콥터 인계점 최적입지 선정
 Date : 2020-08 ~ 2020-10
-Purpose : Competition (3rd Prize)
+Purpose : Competition (최우수, 3rd Prize)
 ~~~
 
 ### 수원시 빅데이터 플랫폼 유지관리 및 데이터 분석 &nbsp;<sub>[*Click*](https://github.com/juunho/Suwon-2021)</sub> 
@@ -16,7 +16,7 @@ Purpose : Career
 ~~~
 Summary : 앙상블 모형과 클러스터링을 활용한 기업 선호도 반영 추천 솔루션
 Date : 2021-06 ~ 2021-08
-Purpose : Competition (1st Prize) / Conference
+Purpose : Competition (대상, 1st Prize) / Conference
 ~~~
 
 
