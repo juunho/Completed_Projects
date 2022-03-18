@@ -5,12 +5,7 @@ Date : 2020-08 ~ 2020-10
 Purpose : Competition (최우수, 3rd Prize)
 ~~~
 
-### 수원시 빅데이터 플랫폼 유지관리 및 데이터 분석 &nbsp;<sub>[*Click*](https://github.com/juunho/Suwon-2021)</sub> 
-~~~
-Summary : 코로나 예방접종 현황 분석 등 공공데이터 분석 및 시각화
-Date : 2021-02 ~ 2021-12
-Purpose : Career
-~~~
+
 
 ### 수출액 예측을 통한 수출 유망 국가 및 품목 추천 &nbsp;<sub>[*Click*](https://github.com/juunho/Completed_Projects/tree/main/2.%20%EC%88%98%EC%B6%9C%EC%95%A1%20%EC%98%88%EC%B8%A1%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%88%98%EC%B6%9C%20%EC%9C%A0%EB%A7%9D%20%EA%B5%AD%EA%B0%80%20%EB%B0%8F%20%ED%92%88%EB%AA%A9%20%EC%B6%94%EC%B2%9C)</sub> 
 ~~~
@@ -20,3 +15,11 @@ Purpose : Competition (대상, 1st Prize) / Conference
 ~~~
 
 
+---
+
+### 수원시 빅데이터 플랫폼 유지관리 및 데이터 분석 &nbsp;<sub>[*Click*](https://github.com/juunho/Suwon-2021)</sub> 
+~~~
+Summary : 코로나 예방접종 현황 분석 등 공공데이터 분석 및 시각화
+Date : 2021-02 ~ 2021-12
+Purpose : Career
+~~~
