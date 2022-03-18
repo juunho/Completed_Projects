@@ -15,7 +15,7 @@ Purpose : Competition (1st Prize) / Conference
 
 ### 수원시 빅데이터 플랫폼 유지관리 및 데이터 분석 &nbsp;<sub>[*Click*](https://github.com/juunho/Completed_Projects/tree/main/1.%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%9D%91%EA%B8%89%EC%9D%98%EB%A3%8C%20%EC%A0%84%EC%9A%A9%ED%97%AC%EA%B8%B0%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%B8%EA%B3%84%EC%A0%90%20%EC%B5%9C%EC%A0%81%EC%9E%85%EC%A7%80%20%EB%B6%84%EC%84%9D)</sub> 
 ~~~
-Summary : 코로나 예방접종 현황 분석 등
+Summary : 코로나 예방접종 현황 분석 등 분석 및 시각화
 Date : 2020-08 ~ 2020-10
 Purpose : Career
 ~~~
