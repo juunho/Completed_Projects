@@ -2,7 +2,7 @@
 ~~~
 Summary : AHP를 활용한 응급의료 전용 헬리콥터 인계점 최적입지 선정
 Date : 2021-02-01 ~ 2021-12-31
-Status: Completed
+Purpose : Competition
 ~~~
 
 
@@ -10,5 +10,5 @@ Status: Completed
 ~~~
 Summary : 앙상블 모형과 클러스터링을 활용한 기업 선호도 반영 추천 솔루션
 Date : 2021-02-01 ~ 2021-12-31
-Status: Completed
+Purpose : Competition
 ~~~
