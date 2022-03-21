@@ -2,7 +2,7 @@
 ~~~
 Summary : AHP를 활용한 응급의료 전용 헬리콥터 인계점 최적입지 선정
 Date : 2020-08 ~ 2020-10
-Purpose : Competition (최우수, 3rd Prize)
+Category : Competition (최우수, 3rd Prize)
 ~~~
 
 
@@ -11,7 +11,7 @@ Purpose : Competition (최우수, 3rd Prize)
 ~~~
 Summary : 앙상블 모형과 클러스터링을 활용한 기업 선호도 반영 추천 솔루션
 Date : 2021-06 ~ 2021-08
-Purpose : Competition (대상, 1st Prize) / Conference
+Category : Competition (대상, 1st Prize) / Conference
 ~~~
 
 
@@ -21,5 +21,5 @@ Purpose : Competition (대상, 1st Prize) / Conference
 ~~~
 Summary : 코로나 예방접종 현황 분석 등 공공데이터 분석 및 시각화
 Date : 2021-02 ~ 2021-12
-Purpose : Career
+Category : Career
 ~~~
