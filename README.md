@@ -7,14 +7,6 @@ Date : 2022-07 ~ 2022-12
 Category : 산학
 ~~~
 
-### 삼성글로벌리서치 RA
-~~~
-Summary : 
-Date : 2022-03 ~ 2022-05
-Category : Research Assistant
-~~~
-
-
 ### 수원시 빅데이터 플랫폼 유지관리 및 데이터 분석 &nbsp;<sub>[*Click*](https://github.com/juunho/Suwon-2021)</sub> 
 ~~~
 Summary : 코로나 예방접종 현황 분석 등 공공데이터 분석 및 시각화
