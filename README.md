@@ -1,4 +1,15 @@
-## Projects
+## Ongoing Projects
+
+### 온라인 플랫폼 이미지 스타일 전이 모델 개발
+- 
+- 
+~~~
+Partner : 연세대학교 정보대학원 DSLab
+Date : 2023.09 ~ 
+Role : Project Leader 
+~~~
+
+## Completed Projects
 
 ### AI 신용평가모형 기반 챗봇 서비스 구현
 - 기존 대출 프로세스에서 발생하는 부정적인 고객 경험을 해소하기 위한 설명 가능한 AI 신용평가 모형 구축
