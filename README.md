@@ -56,13 +56,6 @@ Category : Competition
 Award : 최우수상, 3rd Prize
 ~~~
 
-</br>
-
-# Prosocial Project
-
-### ESG Rating
-
-
 
 
 
