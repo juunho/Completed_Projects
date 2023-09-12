@@ -9,7 +9,6 @@ Date : 2022.10 ~ 2023.06
 Role : Project Leader & Data Scientist 
 ~~~
 
-
 ### MLOps 기반 제조설비 이상탐지 모델 구축
 ~~~
 Summary : 롯데칠성 안성공장 번들 포장기 설비에서 발생하는 포장 불량에 대한 탐지 모델 개발 · 배포 프로젝트
@@ -23,6 +22,8 @@ Summary : 수원시 빅데이터 플랫폼 운영 관리, 데이터 시각화 �
 Date : 2021.02 ~ 2022.02
 Category : Career (모비젠)
 ~~~
+
+</br>
 
 ## Competitions
 
