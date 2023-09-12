@@ -1,4 +1,4 @@
-## Ongoing Project
+# Ongoing Project
 
 ### 온라인 플랫폼 이미지 스타일 전이 모델 개발
 - 
@@ -11,7 +11,7 @@ Role : Project Leader
 
 </br>
 
-## Completed Project
+# Completed Project
 
 ### AI 신용평가모형 기반 챗봇 서비스 구현
 - 기존 대출 프로세스에서 발생하는 부정적인 고객 경험을 해소하기 위한 설명 가능한 AI 신용평가 모형 구축
@@ -38,7 +38,7 @@ Category : Career (모비젠)
 
 </br>
 
-## Competition
+# Competition
 
 ### 수출액 예측을 통한 수출 유망 국가 및 품목 추천 &nbsp;<sub>[*Click*](https://github.com/juunho/Completed_Projects/tree/main/2.%20%EC%88%98%EC%B6%9C%EC%95%A1%20%EC%98%88%EC%B8%A1%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%88%98%EC%B6%9C%20%EC%9C%A0%EB%A7%9D%20%EA%B5%AD%EA%B0%80%20%EB%B0%8F%20%ED%92%88%EB%AA%A9%20%EC%B6%94%EC%B2%9C)</sub> 
 ~~~
@@ -56,7 +56,9 @@ Category : Competition
 Award : 최우수상, 3rd Prize
 ~~~
 
-## Prosocial Project
+</br>
+
+# Prosocial Project
 
 ### ESG Rating
 
