@@ -12,7 +12,8 @@
 ~~~
 Partner: 하나금융그룹
 Date : 2022.10 ~ 2023.06
-Team: 배준호[Leader](Data Scientist), 김성수(Data Scientist), 이주현(UX Engineer)
+Team: 3명(Data Scientist 2 · UX Desinger 1)
+Role : Team Leader, 
 ~~~
 
 </br>
