@@ -41,7 +41,8 @@ Role : Team Leader,
 
 
 ## 프레임워크
-![image](https://github.com/juunho/Completed_Projects/assets/81394769/7a3eca65-8e01-4f73-8195-f30777ad43e2)
+![image](https://github.com/juunho/Completed_Projects/assets/81394769/a5b693a0-1f5f-47a0-bc6e-afd3b0b4550a)
+
 
 </br>
 
