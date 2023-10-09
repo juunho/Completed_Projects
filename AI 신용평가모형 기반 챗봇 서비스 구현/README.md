@@ -21,11 +21,14 @@ My Roles:
 - 프롬프트 엔지니어링을 통한 대출 거절 피드백 주입
 ~~~
 
+</br>
 
 ## 문제 정의
 > 많은 대출 신청자들은 금융 이력이 부족하다는 이유로 제대로된 신용 평가를 받지 못해 대출을 거절당하고 있습니다.
 > 
 > 그 뿐 아니라, 거절에 대한 이유 설명과 대안 상품 추천이 이루어지지 않아 대출 과정에서 부정적인 경험을 겪고 있는 것으로 나타났습니다.
+>
+> 따라서
 
 </br>
 
@@ -49,9 +52,18 @@ My Roles:
 
 </br>
 
-## 상세 내용
-하나 ONE-FIT 모델 결과를 바탕으로  씬 파일러 고객 특성 추론
 
+## 상세 내용
+**신용평가 모형 개발**
+<p align="center">
+  <img src="https://github.com/juunho/Completed_Projects/assets/81394769/3e9e757f-9375-4f21-a87b-423ed5c47c83" width="80%">
+</p>
+
+</br>
+
+---
+
+**신용평가 모형 결과를 바탕으로 씬 파일러 고객 특성 추론**
 
 <p align="center">
   <img src="https://github.com/juunho/Completed_Projects/assets/81394769/ba1dbb48-9151-49bc-b981-8baf98d17d9b" width="80%">
@@ -59,8 +71,32 @@ My Roles:
 
 </br>
 
+---
+
+**AI 프롬프트 엔지니어링을 통해 고객 맞춤형 챗봇 구현**
+
+<p align="center">
+  <img src="https://github.com/juunho/Completed_Projects/assets/81394769/c1a354d1-f5cb-4797-847b-1e59a918a082" width="80%">
+</p>
+
+</br>
+
+---
+
+**AI 프롬프트 엔지니어링을 통해 고객 맞춤형 챗봇 구현**
+
+<p align="center">
+  <img src="https://github.com/juunho/Completed_Projects/assets/81394769/0641d561-4588-423a-8668-a0c8a424de63" width="80%">
+</p>
+
+
+</br>
+
 ## 성과
 그룹 서비스 ‘하나원큐’에 적용 가능한 대출 거절 피드백 챗봇 개발
+
 그룹사 내 대안 상품 추천을 통한 고객 락인(Lock-In) 효과
+
+</br>
 
 ## 개선 방향
