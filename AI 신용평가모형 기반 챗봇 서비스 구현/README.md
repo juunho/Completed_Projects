@@ -87,12 +87,23 @@ My Roles:
   <img src="https://github.com/juunho/Completed_Projects/assets/81394769/0641d561-4588-423a-8668-a0c8a424de63" width="80%">
 </p>
 
+</br>
+
+---
+
+**하나 ONE-FIT 서비스 시연**
+
+<p align="center">
+  <img src="https://github.com/juunho/Completed_Projects/assets/81394769/4c88a9bf-3909-4b25-9626-e8913ce1b3c4" width="80%">
+</p>
+
+
 
 </br>
 
 
 ## 성과
-- 그룹 서비스 ‘하나원큐’에 적용 가능한 챗봇 프로토타입 개발
+- 그룹 서비스 ‘하나원큐’에 적용 가능한 대출 거절 피드백 챗봇 개발
 
 - 그룹사 내 대안 상품 추천을 통한 고객 락인(Lock-In) 효과
 
