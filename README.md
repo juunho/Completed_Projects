@@ -23,7 +23,7 @@ Date : 2022.10 ~ 2023.06
 Role : Project Leader & Data Scientist 
 ~~~
 
-### MLOps 기반 제조설비 이상탐지 모델 구축
+### MLOps 기반 제조설비 이상탐지 모델 구축 &nbsp;<sub>[**···** :pushpin:](https://github.com/juunho/Completed_Projects/tree/main/MLOps%20%EA%B8%B0%EB%B0%98%20%EC%A0%9C%EC%A1%B0%EC%84%A4%EB%B9%84%20%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%EC%B6%95)</sub> 
 ~~~
 Summary : 롯데칠성 안성공장 번들 포장기 설비에서 발생하는 포장 불량에 대한 탐지 모델 개발 · 배포 프로젝트
 Date : 2022.07 ~ 2022.12
