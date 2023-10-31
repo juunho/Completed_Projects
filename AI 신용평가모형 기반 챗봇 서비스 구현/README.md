@@ -37,6 +37,12 @@ My Roles:
 
 ## 접근 방법
 
+<p align="center">
+  <img src="https://github.com/juunho/Completed_Projects/assets/81394769/a5b693a0-1f5f-47a0-bc6e-afd3b0b4550a" width="80%">
+</p>
+
+</br>
+
 - 그래프 네트워크 기반의 신용평가 모형 개발을 통한 고객 프로파일링 정밀화
 
 - 다각화된 XAI 기법, 대출자 간 연결 정보를 활용한 대출 거절 피드백 구현
@@ -44,16 +50,6 @@ My Roles:
 - 대화형 AI 프롬프트 엔지니어링을 통한 챗봇 서비스 개발
 
 </br>
-
-
-## 프레임워크
-
-<p align="center">
-  <img src="https://github.com/juunho/Completed_Projects/assets/81394769/a5b693a0-1f5f-47a0-bc6e-afd3b0b4550a" width="80%">
-</p>
-
-</br>
-
 
 ## 상세 내용
 **대안 AI 신용평가 모형 개발**
