@@ -65,7 +65,7 @@ My Roles:
 
 ---
 
-**신용평가 모형 결과를 바탕으로 대출 고객 특성 추론**
+**신용평가 결과 바탕의 대출 고객 특성 추론**
 
 <p align="center">
   <img src="https://github.com/juunho/Completed_Projects/assets/81394769/ba1dbb48-9151-49bc-b981-8baf98d17d9b" width="80%">
