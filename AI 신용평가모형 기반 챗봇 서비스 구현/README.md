@@ -56,7 +56,7 @@ My Roles:
 
 
 ## 상세 내용
-**신용평가 모형 개발**
+**대안 AI 신용평가 모형 개발**
 <p align="center">
   <img src="https://github.com/juunho/Completed_Projects/assets/81394769/3e9e757f-9375-4f21-a87b-423ed5c47c83" width="80%">
 </p>
@@ -65,7 +65,7 @@ My Roles:
 
 ---
 
-**신용평가 모형 결과를 바탕으로 씬 파일러 고객 특성 추론**
+**신용평가 모형 결과를 바탕으로 대출 고객 특성 추론**
 
 <p align="center">
   <img src="https://github.com/juunho/Completed_Projects/assets/81394769/ba1dbb48-9151-49bc-b981-8baf98d17d9b" width="80%">
@@ -75,7 +75,7 @@ My Roles:
 
 ---
 
-**AI 프롬프트 엔지니어링을 통해 고객 맞춤형 챗봇 구현**
+**생성형 AI 모델 프롬프트 엔지니어링 수행**
 
 <p align="center">
   <img src="https://github.com/juunho/Completed_Projects/assets/81394769/c1a354d1-f5cb-4797-847b-1e59a918a082" width="80%">
@@ -85,7 +85,7 @@ My Roles:
 
 ---
 
-**AI 프롬프트 엔지니어링을 통해 고객 맞춤형 챗봇 구현**
+**대출 거절 피드백을 위한 AI 챗봇 서비스 구현**
 
 <p align="center">
   <img src="https://github.com/juunho/Completed_Projects/assets/81394769/0641d561-4588-423a-8668-a0c8a424de63" width="80%">
@@ -99,6 +99,10 @@ My Roles:
 
 그룹사 내 대안 상품 추천을 통한 고객 락인(Lock-In) 효과
 
+상담 서비스 자동화에 따른 연간 약 12만 시간의 상담 시간 절약
+
 </br>
 
 ## 개선 방향
+
+그룹사 컴플라이언스
