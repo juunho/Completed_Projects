@@ -13,7 +13,7 @@ Role : Project Leader
 
 # Completed Project
 
-### AI 신용평가모형 기반 챗봇 서비스 구현 &nbsp;<sub>[**···** :pushpin:](https://github.com/juunho/Completed_Projects/tree/main/AI%20%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80%EB%AA%A8%ED%98%95%20%EA%B8%B0%EB%B0%98%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84)</sub> 
+### AI 신용평가모형 기반 챗봇 서비스 구현 &nbsp;<sub>[··· :pushpin:](https://github.com/juunho/Completed_Projects/tree/main/AI%20%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80%EB%AA%A8%ED%98%95%20%EA%B8%B0%EB%B0%98%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84)</sub> 
 
 - 기존 대출 프로세스에서 발생하는 부정적인 고객 경험을 해소하기 위한 설명 가능한 AI 신용평가 모형 구축
 - 대출 거절에 대한 이유 설명 및 대안 상품이 가능한 추천 챗봇 서비스 개발
@@ -23,7 +23,7 @@ Date : 2022.10 ~ 2023.06
 Role : Project Leader & Data Scientist 
 ~~~
 
-### MLOps 기반 제조설비 이상탐지 모델 구축 &nbsp;<sub>[**···** :pushpin:](https://github.com/juunho/Completed_Projects/tree/main/MLOps%20%EA%B8%B0%EB%B0%98%20%EC%A0%9C%EC%A1%B0%EC%84%A4%EB%B9%84%20%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%EC%B6%95)</sub> 
+### MLOps 기반 제조설비 이상탐지 모델 구축 &nbsp;<sub>[··· :pushpin:](https://github.com/juunho/Completed_Projects/tree/main/MLOps%20%EA%B8%B0%EB%B0%98%20%EC%A0%9C%EC%A1%B0%EC%84%A4%EB%B9%84%20%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%EC%B6%95)</sub> 
 ~~~
 Summary : 롯데칠성 안성공장 번들 포장기 설비에서 발생하는 포장 불량에 대한 탐지 모델 개발 · 배포 프로젝트
 Date : 2022.07 ~ 2022.12
