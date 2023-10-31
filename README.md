@@ -1,4 +1,4 @@
-# Ongoing Project
+## Ongoing Project
 
 ### 온라인 플랫폼 이미지 스타일 전이 모델 개발
 - 
@@ -11,7 +11,7 @@ Role : Project Leader
 
 </br>
 
-# Completed Project
+## Completed Project
 
 ### AI 신용평가모형 기반 챗봇 서비스 구현 &nbsp;<sub>[··· :pushpin:](https://github.com/juunho/Completed_Projects/tree/main/AI%20%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80%EB%AA%A8%ED%98%95%20%EA%B8%B0%EB%B0%98%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84)</sub> 
 
@@ -20,7 +20,7 @@ Role : Project Leader
 ~~~
 Partner : 하나금융그룹
 Date : 2022.10 ~ 2023.06
-Role : Project Leader & Data Scientist 
+Role : Project Leader & Data Scientist
 ~~~
 
 ### MLOps 기반 제조설비 이상탐지 모델 구축 &nbsp;<sub>[··· :pushpin:](https://github.com/juunho/Completed_Projects/tree/main/MLOps%20%EA%B8%B0%EB%B0%98%20%EC%A0%9C%EC%A1%B0%EC%84%A4%EB%B9%84%20%EC%9D%B4%EC%83%81%ED%83%90%EC%A7%80%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%EC%B6%95)</sub> 
@@ -40,14 +40,14 @@ Category : Career (모비젠)
 
 </br>
 
-# Competition
+## Competition
 
 ### 수출액 예측을 통한 수출 유망 국가 및 품목 추천 &nbsp;<sub>[··· :trophy:](https://github.com/juunho/Completed_Projects/tree/main/2.%20%EC%88%98%EC%B6%9C%EC%95%A1%20%EC%98%88%EC%B8%A1%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%88%98%EC%B6%9C%20%EC%9C%A0%EB%A7%9D%20%EA%B5%AD%EA%B0%80%20%EB%B0%8F%20%ED%92%88%EB%AA%A9%20%EC%B6%94%EC%B2%9C)</sub> 
 ~~~
+Competition : 제9회 
 Summary : 앙상블 모형과 클러스터링을 활용한 기업 선호도 반영 추천 솔루션
 Date : 2021.06 ~ 2021.08
-Category : Competition  & Conference
-Award : 대상(산업통상자원부 장관상), 1st Prize
+Award : 대상 (산업통상자원부 장관상)
 ~~~
 
 ### 서울시 응급의료 전용헬기를 위한 인계점 최적입지 분석 &nbsp;<sub>[··· :trophy:](https://github.com/juunho/Completed_Projects/tree/main/1.%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%9D%91%EA%B8%89%EC%9D%98%EB%A3%8C%20%EC%A0%84%EC%9A%A9%ED%97%AC%EA%B8%B0%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%B8%EA%B3%84%EC%A0%90%20%EC%B5%9C%EC%A0%81%EC%9E%85%EC%A7%80%20%EB%B6%84%EC%84%9D)</sub> 
@@ -55,9 +55,10 @@ Award : 대상(산업통상자원부 장관상), 1st Prize
 Summary : AHP를 활용한 응급의료 전용 헬리콥터 인계점 최적입지 선정
 Date : 2020.08 ~ 2020.10
 Category : Competition 
-Award : 최우수상, 3rd Prize
+Award : 최우수상 (서울특별시장상)
 ~~~
 
+### PetQue &nbsp;<sub>[··· :trophy:]
 
 
 
