@@ -1,5 +1,5 @@
 # MLOps 기반 제조설비 이상탐지 모델 구축
-**롯데칠성 제조 설비에서 발생하는 포장 불량 이상 탐지 모델 개발과 공정 내 실시간 적용을 위한 MLOps기반 모델 배포를 수행하였습니다.**
+**롯데칠성음료 제조 설비에서 발생하는 포장 불량 이상 탐지 모델 개발과 공정 내 실시간 적용을 위한 MLOps기반 모델 배포를 수행하였습니다.**
 
 본 프로젝트는 롯데칠성음료와 함께 진행하였고, Python 및 Pytorch 환경에서 개발되었습니다.
 
@@ -14,22 +14,32 @@
 ~~~
 Partner: 롯데칠성음료
 Date : 2022.07 ~ 2022.12
-Team: 김성범[Leader](Data Scientist), 배준호(Data Scientist), 김성수(Data Scientist)
+Team: 3명 (Data Scientist 2, ML Engineer 1)
+
+My Role:
+- 
 ~~~
 
 </br>
 
 
-## 개요
-### Problem:
-
-TBU </br>
-
-TBU
+## 문제 정의
+> 번들 포장기 불량으로 인해 발생하는 불가동은 전체 설비 불가동 시간의 55%를 차지하는 중요한 문제였습니다.
+>
+> 또한, 알람 데이터의 레이블링 문제와 제품 단위 별로 상이한 데이터 분포가 모델을 만드는데 어려움 
+>
+> 비지도 학습 기반의 이상탐지 모델을 개발하고, MLOps 관점에서 실시간 모델 배포를 수행하였습니다.
 
 </br>
 
-### Solving:
+## 접근 방법
+
+<div align="center">
+    <img src="https://github.com/juunho/Completed_Projects/assets/81394769/f6597cb9-7466-4449-8a09-8fb3fc273fdb" width="85%">
+</div>
+
+</br>
+
 - TBU
 
 - TBU 
@@ -39,16 +49,7 @@ TBU
 </br>
 
 
-
-
-## 프레임워크
-<div align="center">
-    <img src="https://github.com/juunho/Completed_Projects/assets/81394769/f6597cb9-7466-4449-8a09-8fb3fc273fdb" width="85%">
-</div>
-
-</br>
-
-## 내용
+## 상세 내용
 
 
 </br>
