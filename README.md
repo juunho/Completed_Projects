@@ -1,16 +1,3 @@
-## Ongoing Project
-
-### 온라인 플랫폼 이미지 스타일 전이 모델 개발
-- 
-- 
-~~~
-Partner : 연세대학교 정보대학원 DSLab
-Date : 2023.09 ~ 
-Role : Project Leader 
-~~~
-
-</br>
-
 ## Completed Project
 
 ### AI 신용평가모형 기반 챗봇 서비스 구현 &nbsp;<sub>[··· :pushpin:](https://github.com/juunho/Completed_Projects/tree/main/AI%20%EC%8B%A0%EC%9A%A9%ED%8F%89%EA%B0%80%EB%AA%A8%ED%98%95%20%EA%B8%B0%EB%B0%98%20%EC%B1%97%EB%B4%87%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84)</sub> 
